@@ -79,3 +79,4 @@
 /Users/metehansozen/RiderProjects/NLayerBestPractice2/App.API/obj/Debug/net8.0/App.API.pdb
 /Users/metehansozen/RiderProjects/NLayerBestPractice2/App.API/obj/Debug/net8.0/App.API.genruntimeconfig.cache
 /Users/metehansozen/RiderProjects/NLayerBestPractice2/App.API/obj/Debug/net8.0/ref/App.API.dll
+/Users/metehansozen/RiderProjects/NLayerBestPractice2/App.API/obj/Debug/net8.0/App.API.sourcelink.json

@@ -28,3 +28,4 @@
 /Users/metehansozen/RiderProjects/NLayerBestPractice2/App.Services/obj/Debug/net8.0/refint/App.Services.dll
 /Users/metehansozen/RiderProjects/NLayerBestPractice2/App.Services/obj/Debug/net8.0/App.Services.pdb
 /Users/metehansozen/RiderProjects/NLayerBestPractice2/App.Services/obj/Debug/net8.0/ref/App.Services.dll
+/Users/metehansozen/RiderProjects/NLayerBestPractice2/App.Services/obj/Debug/net8.0/App.Services.sourcelink.json

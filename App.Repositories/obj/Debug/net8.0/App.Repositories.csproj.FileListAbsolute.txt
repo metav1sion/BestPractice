@@ -26,3 +26,4 @@
 /Users/metehansozen/RiderProjects/NLayerBestPractice2/App.Repositories/obj/Debug/net8.0/App.Repositories.pdb
 /Users/metehansozen/RiderProjects/NLayerBestPractice2/App.Repositories/obj/Debug/net8.0/App.Repositories.genruntimeconfig.cache
 /Users/metehansozen/RiderProjects/NLayerBestPractice2/App.Repositories/obj/Debug/net8.0/ref/App.Repositories.dll
+/Users/metehansozen/RiderProjects/NLayerBestPractice2/App.Repositories/obj/Debug/net8.0/App.Repositories.sourcelink.json
